@@ -116,7 +116,7 @@ h1 {
 }
 
 .destaque {
-  color: #16a34a;
+  color: #0f7e38;
 }
 
 .texto-principal p {
@@ -130,7 +130,7 @@ h1 {
 }
 
 .botao-verde {
-  background-color: #16a34a;
+  background-color: #0f7e38;
   color: #ffffff;
   padding: 14px 26px;
   font-size: 16px;
@@ -351,7 +351,7 @@ h1 {
   color: #6d28d9;
 }
 
-/* opcoes de perfil na tela de criar conta */
+/* opcoes de perfil  */
 
 .opcoes-perfil {
   display: flex;

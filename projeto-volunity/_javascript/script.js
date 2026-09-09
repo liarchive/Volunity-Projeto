@@ -36,3 +36,16 @@ function escolherPerfil(tipo) {
 function alternarTag(elemento) {
   elemento.classList.toggle("tag-selecionada");
 }
+
+
+function entrar(evento) {
+  evento.preventDefault(); // impede a pagina de recarregar
+  window.location.href = "pagina-principal.html"; // leva o usuario para a pagina principal
+}
+ 
+// funcao chamada ao enviar o formulario de criar conta (cadastro)
+ 
+function criarConta(evento) {
+  evento.preventDefault();
+  window.location.href = "pagina-principal.html"; 
+} 
